@@ -1,0 +1,23 @@
+{
+  "name": "echarts-ssr",
+  "version": "1.0.0",
+  "description": "Echarts server side render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echarts",
+    "ssr",
+    "node"
+  ],
+  "author": "ym",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "dependencies": {
+    "gif.js": "^0.2.0"
+  }
+}
